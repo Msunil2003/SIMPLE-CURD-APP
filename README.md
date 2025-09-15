@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/SIMPLE-CURD-APP.git
+git clone https://github.com/Msunil2003/SIMPLE-CURD-APP.git
 cd SIMPLE-CURD-APP
 
 
